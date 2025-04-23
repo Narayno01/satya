@@ -1,2 +1,3 @@
-# satya
-truth life
+# Satya
+Truth Life
+Author - Narayno01
